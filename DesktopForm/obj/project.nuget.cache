@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImxsHr2Ik0bbkWJaUczyDKgkJFiar2iPQhlWoy20g/e2b1I4dpvf3NvXRZ4vvp+gaMRgpbAhungL5uNR2EVt6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luiz Gustavo\\Documents\\Dispositivos Móveis\\DesktopForm\\DesktopForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Gustavo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
